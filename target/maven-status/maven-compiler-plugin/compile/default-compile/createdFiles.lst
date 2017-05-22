@@ -1,0 +1,6 @@
+map\as\relationship\User.class
+transaction\TransactionExample.class
+map\as\relationship\EmbeddableAddress.class
+map\as\relationship\EntityAddress.class
+Repository\UserRepo.class
+Application.class
